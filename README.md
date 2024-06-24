@@ -1,7 +1,7 @@
 
-<h4 align="left">Who i am.... </h4>
+<h4 align="left">Who i am ....❓❓ </h4>
 <h1 align="center">Hi There👋, What's Up </h1>
-<h3 align="center"> Literally i am a Programmer, Youtuber, </h3>
+<h3 align="center"> Literally i am a Programmer, Youtuber, working online for people to create them cool websites with Js, Express, React.js, MongoDB, Next.js  </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=queuepedia" alt="queuepedia" /></a> </p>
 
