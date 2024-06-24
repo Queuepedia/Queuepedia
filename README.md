@@ -1,6 +1,7 @@
 
+<h4 align="left">Who i am.... </h4>
 <h1 align="center">Hi There👋, What's Up </h1>
-<h3 align="center">I am developing websites as frontend and backend</h3>
+<h3 align="center"> Literally i am a Programmer, Youtuber, </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=queuepedia" alt="queuepedia" /></a> </p>
 
